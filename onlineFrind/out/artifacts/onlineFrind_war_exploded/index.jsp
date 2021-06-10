@@ -14,7 +14,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <body>
 	<center>
 		<h1><font size=5 color=red>欢迎您来到这里结交朋友</font></h1>
-		<img src="image/welcome.jpg" width=300 height=200></img>
+		<img src="image/welcome.jpeg" width=300 height=200></img>
 	</center>
 </body>
 </html>

@@ -26,7 +26,7 @@ public class DbConn {
 	 * 最基本的方式
 	 * */
 	private static String driver = "com.mysql.jdbc.Driver";
-	private static String url = "jdbc:mysql://127.0.0.1:3306/onlinefriend?useUnicode=true&characterEncoding=utf-8";
+	private static String url = "jdbc:mysql://192.168.1.55:3306/onlineFriend?useUnicode=true&characterEncoding=utf-8";
 	private static String user = "root";
 	private static String passwd = "zhou";
 

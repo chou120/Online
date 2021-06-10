@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="servlet-api">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/lib/servlet-api.jar!/" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>

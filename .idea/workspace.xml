@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da75272d-45f6-497f-add2-1a37a66b06d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/onlineFrind/onlineFrind.iml" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/onlineFrind.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/out/artifacts/onlineFrind_war_exploded/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/out/artifacts/onlineFrind_war_exploded/head.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/out/artifacts/onlineFrind_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/out/artifacts/onlineFrind_war_exploded/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/out/artifacts/onlineFrind_war_exploded/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/out/artifacts/onlineFrind_war_exploded/showLoginMess.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/out/artifacts/onlineFrind_war_exploded/showRegisterMess.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/src/com/zifangsky/OnlineFriend/util/DbConn.java" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/src/com/zifangsky/OnlineFriend/util/DbConn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/WEB-INF/lib/commons-codec-1.10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/WEB-INF/lib/commons-lang-2.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/WEB-INF/lib/commons-lang-2.4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/WEB-INF/lib/servlet-api.jar" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/article/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/article/error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/article/head_article.txt" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/article/head_article.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/article/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/article/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/article/modifyArticle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/article/modifyArticle.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/article/newArticle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/article/newArticle.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/article/showArticle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/article/showArticle.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/data/userfile/image/public.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/data/userfile/image/public.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/head.txt" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/head.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/image/public.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/image/public.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/image/welcome.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/image/welcome.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/member/choiceLookType.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/member/choiceLookType.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/member/head_member.txt" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/member/head_member.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/member/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/member/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/member/modifyPassword.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/member/modifyPassword.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/member/modifyRegisterMess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/member/modifyRegisterMess.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/member/showAllMember.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/member/showAllMember.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/member/showLookedMember.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/member/showLookedMember.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/member/showModifyRegisterMess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/member/showModifyRegisterMess.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/member/showNewPasswordMess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/member/showNewPasswordMess.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/member/showUploadImageMess.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/member/showUploadImageMess.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlineFrind/web/member/uploadImage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/onlineFrind/web/member/uploadImage.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tk6rRZWlApHhVq2plwCzSWfSGh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/onlineFrind" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da75272d-45f6-497f-add2-1a37a66b06d9" name="Default Changelist" comment="" />
+      <created>1623300943624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623300943624</updated>
+      <workItem from="1623300946891" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
